@@ -4,4 +4,6 @@ biriyani
 
 alfam
 
-beef
+beef curry
+
+chicken curry
